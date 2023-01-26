@@ -1,0 +1,28 @@
+p{
+  color: #dc1230;
+  font-family: Dialog;
+  font-size: 18px;
+
+}
+button{
+  color: #ffffff;
+  padding: 15px;
+  font-size: 16px;
+  background: #1101e1;
+  border: 0;
+  text-align: center;
+  margin: 20px;
+}
+td,th{
+  border: 2px solid red;
+  font-family: "DejaVu Sans Mono";
+  padding: 10px;
+  text-align: center;
+  color: blue;
+  border-radius: 10px;
+}
+table{
+  width: 80%;
+  border-collapse: collapse;
+  margin: 10px;
+}
